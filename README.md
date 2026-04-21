@@ -266,11 +266,6 @@ The project uses **Synthea synthetic data** - a fully simulated population creat
 
 If adapting this pipeline to real healthcare data, you'd need to add: HIPAA-compliant hosting, row-level access controls in the warehouse, audit logging on the Streamlit app, and credentialed-user authentication.
 
-## 👥 Collaboration
-
-This project was developed with **[Rishikesh Jadhav](https://github.com/Rishikesh-Jadhav)**.
-
-*[Fill in: briefly describe the split of work - e.g. "I owned the dbt transformation layer and Streamlit UI; Rishikesh contributed the DuckDB loader and schema inspection utilities."]* Being specific about ownership matters - recruiters specifically look for this on any repo with multiple contributors.
 
 ## 🔮 Future Work
 
